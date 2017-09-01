@@ -9,6 +9,7 @@
 ```
 
 # Plugins
+- Save with keyboard
 - WP Remove Category Base
 - Duplicate Post
 - ACF
