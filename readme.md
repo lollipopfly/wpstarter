@@ -17,3 +17,4 @@
 - Contact Form 7 Modules: Hidden Fields - для скрытых полей
 - Advanced Tinymce
 - Advanced TinyMCE Configuration
+- WP Mail Logging
